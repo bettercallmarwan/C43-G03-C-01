@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        // Entry point
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
