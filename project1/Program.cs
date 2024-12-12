@@ -26,14 +26,17 @@
 
             // Examples of naming conventions:
 
-            // Camel case:
+            // Camel case
             //marwanOssama (Used in js) 
 
             // Pascal case
             //MarwanOssama (Used in c#)
 
-            //Snake Case
+            // Snake Case
             //marwan_ossama (Used in python and Angular)
+
+            // Kebab Case
+            //marwan-ossama
 
 
             #endregion
